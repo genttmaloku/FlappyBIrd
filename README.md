@@ -19,4 +19,25 @@ Sprites: Ky folder përmbanë skedarë imazhesh të përdorura për vizualizimet
 Autori
 Ky projekt është zhvilluar nga Gent Maloku me Mentorin Berat Hasani. 
 Ju lutemi të na kontaktoni për pyetje rreth këtij projekti.
+
 Email:malokugentt@gmail.com
+
+----------------------------------------------------------------------------------------------------------
+
+Description
+Flappy Bird is a simple arcade game where the player has to control the movement of a bird to help it avoid pipes that appear in its path. This is a reproduction of a well-known game with the same name in the training provided by SHPIK.
+
+Project Structure
+The project is divided into several main parts:
+
+Audio: This folder contains audio files for the game's sound effects.
+Fonts: This folder contains font files used for texts in the game.
+Prefabs: This folder contains reusable elements that can be used in the game scenes. For example, prefabs for the bird, pipes, etc.
+Scenes: This folder contains different game scenes, including the main game scene and the menu scene.
+Scripts: This folder contains all the necessary scripts for the logic and functioning of the game.
+Sprites: This folder contains image files used for visual elements in the game.
+Author
+This project was developed by Gent Maloku with mentor Berat Hasani.
+Please feel free to contact us for any questions regarding this project.
+
+Email: malokugentt@gmail.com
