@@ -2,10 +2,11 @@
 Loja FlappyBird në Unity (C#)
 
 
-Percaktimi
+**Percaktimi**
+
 Loja Flappy Bird është një lojë arcade e thjeshtë ku lojtari duhet të kontrollojë lëvizjen e një zogu për ta ndihmuar atë të evitojë tubat që dalin në rrugën e tij. Kjo është një riprodhim i një loje të njohur me të njëjtin emër ne trajnimin mundesuar nga SHPIK
 
-Struktura e Projektit
+**Struktura e Projektit**
 
 Projekti është ndarë në disa pjesë kryesore:
 
@@ -21,7 +22,8 @@ Scripts: Ky folder përmbanë të gjitha skriptet e nevojshme për logjikën dhe
 
 Sprites: Ky folder përmbanë skedarë imazhesh të përdorura për vizualizimet në lojë.
 
-Autori
+**Autori**
+
 Ky projekt është zhvilluar nga Gent Maloku me Mentorin Berat Hasani. 
 
 Ju lutemi të na kontaktoni për pyetje rreth këtij projekti.
@@ -30,10 +32,12 @@ Email:malokugentt@gmail.com
 
 ----------------------------------------------------------------------------------------------------------
 
-Description
+**Description**
+
 Flappy Bird is a simple arcade game where the player has to control the movement of a bird to help it avoid pipes that appear in its path. This is a reproduction of a well-known game with the same name in the training provided by SHPIK.
 
-Project Structure
+**Project Structure**
+
 The project is divided into several main parts:
 
 Audio: This folder contains audio files for the game's sound effects.
@@ -48,7 +52,8 @@ Scripts: This folder contains all the necessary scripts for the logic and functi
 
 Sprites: This folder contains image files used for visual elements in the game.
 
-Author
+**Author**
+
 This project was developed by Gent Maloku with mentor Berat Hasani.
 
 Please feel free to contact us for any questions regarding this project.
