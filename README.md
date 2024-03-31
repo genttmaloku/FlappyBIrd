@@ -59,3 +59,5 @@ This project was developed by Gent Maloku with mentor Berat Hasani.
 Please feel free to contact us for any questions regarding this project.
 
 Email:malokugentt@gmail.com
+
+Test the game:https://genttmaloku.itch.io/flappybird
