@@ -63,3 +63,6 @@ Please feel free to contact us for any questions regarding this project.
 Email:malokugentt@gmail.com
 
 Test the game:https://genttmaloku.itch.io/flappybird
+
+![flappybird](https://github.com/genttmaloku/FlappyBird/assets/121188583/8bc3de35-e0ce-4924-a9e0-f8b863abefd6)
+
