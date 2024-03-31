@@ -30,6 +30,8 @@ Ju lutemi të na kontaktoni për pyetje rreth këtij projekti.
 
 Email:malokugentt@gmail.com
 
+Testo lojën:https://genttmaloku.itch.io/flappybird
+
 ----------------------------------------------------------------------------------------------------------
 
 **Description**
